@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[90],{701:function(t,e,n){"use strict";n.r(e);var i=n(30),l=Object(i.a)({},(function(){var t=this.$createElement;return(this._self._c||t)("i-panel",{attrs:{title:"标题",width:"300px",border:!1}},[this._v("这是一段内容")])}),[],!1,null,null,null);e.default=l.exports}}]);
