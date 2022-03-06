@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[75],{590:function(n,t,o){"use strict";o.r(t);var r={data:function(){return{formProps:{code:""}}},mounted:function(){}},e=o(30),i=Object(e.a)(r,(function(){var n=this.$createElement;return(this._self._c||n)("i-form-x",this._b({},"i-form-x",this.formProps,!1))}),[],!1,null,null,null);t.default=i.exports}}]);
